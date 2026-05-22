@@ -90,7 +90,7 @@ namespace GUI
             {
                 conn.Open();
 
-                // Check if product exists
+                
                 string checkQuery = "SELECT COUNT(*) FROM product WHERE prod_id = @id";
                 MySqlCommand checkCmd = new MySqlCommand(checkQuery, conn);
                 checkCmd.Parameters.AddWithValue("@id", txtProductID.Text);
@@ -104,7 +104,7 @@ namespace GUI
                     return;
                 }
 
-                // Delete product
+                
                 string deleteQuery = "DELETE FROM product WHERE prod_id = @id";
                 MySqlCommand deleteCmd = new MySqlCommand(deleteQuery, conn);
                 deleteCmd.Parameters.AddWithValue("@id", txtProductID.Text);

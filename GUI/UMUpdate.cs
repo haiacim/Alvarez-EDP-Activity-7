@@ -61,7 +61,7 @@ namespace GUI
                 cmd.Parameters.AddWithValue("@lastname", txtLastname.Text);
                 cmd.Parameters.AddWithValue("@email", txtEmail.Text);
 
-                // radio button logic
+                
                 bool isActive = rbtnActivate.Checked;
 
                 cmd.Parameters.AddWithValue("@is_active", isActive);
@@ -102,7 +102,7 @@ namespace GUI
 
             int userId;
 
-            // 🚨 ensures valid number only
+            
             if (!int.TryParse(txtUserid.Text, out userId))
                 return;
 

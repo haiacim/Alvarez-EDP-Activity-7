@@ -69,9 +69,7 @@ namespace GUI
             {
                 conn.Open();
 
-                // ----------------------------
-                // 1. Check customer exists
-                // ----------------------------
+                
                 string custQuery = "SELECT COUNT(*) FROM customer WHERE cust_id = @cust_id";
                 MySqlCommand custCmd = new MySqlCommand(custQuery, conn);
                 custCmd.Parameters.AddWithValue("@cust_id", txtCustomerID.Text);
@@ -85,9 +83,7 @@ namespace GUI
                     return;
                 }
 
-                // ----------------------------
-                // 2. Check product exists + get price
-                // ----------------------------
+               
                 string prodQuery = "SELECT price FROM product WHERE prod_id = @prod_id";
                 MySqlCommand prodCmd = new MySqlCommand(prodQuery, conn);
                 prodCmd.Parameters.AddWithValue("@prod_id", txtProductID.Text);
@@ -108,9 +104,7 @@ namespace GUI
 
                 lblTotalAmount.Text = totalAmount.ToString("0.00");
 
-                // ----------------------------
-                // 3. Generate order_id (00001 format)
-                // ----------------------------
+              
                 string idQuery = "SELECT MAX(order_id) FROM orders";
                 MySqlCommand idCmd = new MySqlCommand(idQuery, conn);
 
@@ -125,9 +119,7 @@ namespace GUI
                     newOrderId = (numericPart + 1).ToString("D5");
                 }
 
-                // ----------------------------
-                // 4. Insert into orders
-                // ----------------------------
+       
                 string orderInsert = @"INSERT INTO orders
                               (order_id, cust_id, order_date, status, total_amount)
                               VALUES
@@ -143,9 +135,6 @@ namespace GUI
 
                 orderCmd.ExecuteNonQuery();
 
-                // ----------------------------
-                // 5. Insert into order_products
-                // ----------------------------
                 string orderProdInsert = @"INSERT INTO order_products
                                   (order_id, prod_id, quantity, price)
                                   VALUES
@@ -160,9 +149,6 @@ namespace GUI
 
                 opCmd.ExecuteNonQuery();
 
-                // ----------------------------
-                // 6. Success + cleanup
-                // ----------------------------
                 MessageBox.Show("Order saved successfully!");
 
                 txtCustomerID.Clear();

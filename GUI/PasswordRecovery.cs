@@ -37,7 +37,7 @@ namespace GUI
             {
                 conn.Open();
 
-                // 1. Check if user exists
+                
                 string checkQuery = "SELECT COUNT(*) FROM users WHERE username = @username";
                 MySqlCommand checkCmd = new MySqlCommand(checkQuery, conn);
                 checkCmd.Parameters.AddWithValue("@username", txtUsername.Text);
@@ -51,7 +51,7 @@ namespace GUI
                     return;
                 }
 
-                // 2. Update password
+                
                 string updateQuery = "UPDATE users SET password = @password WHERE username = @username";
                 MySqlCommand updateCmd = new MySqlCommand(updateQuery, conn);
 

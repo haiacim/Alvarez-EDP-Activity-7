@@ -47,7 +47,7 @@ namespace GUI
             {
                 conn.Open();
 
-                // Verify order
+                
                 string orderQuery = "SELECT * FROM orders WHERE order_id = @order_id";
                 MySqlCommand orderCmd = new MySqlCommand(orderQuery, conn);
                 orderCmd.Parameters.AddWithValue("@order_id", txtOrderID.Text);
@@ -66,7 +66,7 @@ namespace GUI
                 dtViewOrder.DataSource = dt;
                 txtAmount.Text = dt.Rows[0]["total_amount"].ToString();
 
-                // Check existing payment
+                
                 string payQuery = "SELECT * FROM payments WHERE order_id = @order_id";
                 MySqlCommand payCmd = new MySqlCommand(payQuery, conn);
                 payCmd.Parameters.AddWithValue("@order_id", txtOrderID.Text);
@@ -82,7 +82,7 @@ namespace GUI
                 }
                 else
                 {
-                    // clear if no existing payment
+                    
                     txtPaymentID.Clear();
                     txtTransactionID.Clear();
                     cbPaymentMethod.SelectedIndex = -1;
@@ -129,7 +129,7 @@ namespace GUI
 
                 if (exists > 0)
                 {
-                    // UPDATE
+                  
                     string updateQuery = @"UPDATE payments SET
                                   payment_id = @payment_id,
                                   transaction_id = @transaction_id,
@@ -155,7 +155,7 @@ namespace GUI
                 }
                 else
                 {
-                    // INSERT
+            
                     string insertQuery = @"INSERT INTO payments
                                   (payment_id, order_id, transaction_id, payment_amount,
                                    payment_method, payment_status, created_at, paid_at)

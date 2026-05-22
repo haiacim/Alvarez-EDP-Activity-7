@@ -99,10 +99,10 @@ namespace GUI
                     return;
                 }
 
-                // show in grid
+                
                 dataGridView1.DataSource = dt;
 
-                // autofill textboxes
+                
                 txtProductName.Text = dt.Rows[0]["prod_name"].ToString();
                 txtPrice.Text = dt.Rows[0]["price"].ToString();
                 txtStockQuantity.Text = dt.Rows[0]["stock_quantity"].ToString();
