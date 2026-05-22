@@ -1,185 +1,185 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\GUI\\",
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\passwordrecovery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\passwordrecovery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\passwordrecovery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\passwordrecovery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\imdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\imdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|c:\\users\\asus\\source\\repos\\gui\\gui\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\umview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\umview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\umview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\umview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\umupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\umupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\umupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\umupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\umadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\umadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\umadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\umadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\reportgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\reportgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\reportgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\reportgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\paymentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\paymentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\paymentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\paymentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\ordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\ordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\ordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\ordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\landing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\landing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\landing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\landing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\imupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\imupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\imupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\imupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\imdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\imdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\imadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\imadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\imadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\imadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\umupdate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\landing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\landing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|c:\\users\\asus\\source\\repos\\alvarez-edp-activity-7\\gui\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\imdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\imdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\passwordrecovery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\passwordrecovery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\passwordrecovery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\passwordrecovery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\usermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\umview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\umview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\umview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\umview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\umupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\umupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\umupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\umupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\umadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\umadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\umadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\umadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\reportgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\reportgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\reportgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\reportgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\paymentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\paymentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\paymentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\paymentmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\ordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\ordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\ordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\ordermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\landing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\landing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\inventorymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\imupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\imupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\imupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\imupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\imdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\imdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\imadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\imadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\imadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\imadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\umupdate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\umupdate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\login.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\login.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\login.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\register.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\register.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\register.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\landing.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\landing.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\landing.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\landing.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\landing.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\landing.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\passwordrecovery.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\passwordrecovery.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\passwordrecovery.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\GUI\\gui\\passwordrecovery.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "AbsoluteMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\gui\\passwordrecovery.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
       "RelativeMoniker": "D:0:0:{3A29EB29-2199-4CF3-931B-5D7D3F9E7B17}|GUI\\GUI.csproj|solutionrelative:gui\\passwordrecovery.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     }
   ],
@@ -202,73 +202,150 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserManagement.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\UserManagement.cs",
-              "RelativeDocumentMoniker": "GUI\\UserManagement.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\UserManagement.cs",
-              "RelativeToolTip": "GUI\\UserManagement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\Login.cs",
+              "RelativeDocumentMoniker": "GUI\\Login.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\Login.cs [Design]",
+              "RelativeToolTip": "GUI\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T16:16:35.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-20T13:20:43.022Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IMDelete.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\IMDelete.cs",
-              "RelativeDocumentMoniker": "GUI\\IMDelete.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\IMDelete.cs [Design]",
-              "RelativeToolTip": "GUI\\IMDelete.cs [Design]",
+              "DocumentIndex": 3,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\Register.cs",
+              "RelativeDocumentMoniker": "GUI\\Register.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\Register.cs [Design]",
+              "RelativeToolTip": "GUI\\Register.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T13:58:54.875Z",
+              "WhenOpened": "2026-05-09T14:43:37.986Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PasswordRecovery.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\PasswordRecovery.cs",
-              "RelativeDocumentMoniker": "GUI\\PasswordRecovery.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\PasswordRecovery.cs [Design]",
-              "RelativeToolTip": "GUI\\PasswordRecovery.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "Landing.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\Landing.cs",
+              "RelativeDocumentMoniker": "GUI\\Landing.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\Landing.cs [Design]",
+              "RelativeToolTip": "GUI\\Landing.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T15:30:13.739Z",
+              "WhenOpened": "2026-05-09T14:49:05.082Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PasswordRecovery.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\PasswordRecovery.cs",
-              "RelativeDocumentMoniker": "GUI\\PasswordRecovery.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\PasswordRecovery.cs",
-              "RelativeToolTip": "GUI\\PasswordRecovery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Title": "About.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\About.cs",
+              "RelativeDocumentMoniker": "GUI\\About.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\About.cs [Design]",
+              "RelativeToolTip": "GUI\\About.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T15:04:21.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserManagement.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\UserManagement.cs",
-              "RelativeDocumentMoniker": "GUI\\UserManagement.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\UserManagement.cs [Design]",
-              "RelativeToolTip": "GUI\\UserManagement.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T16:16:19.502Z",
+              "WhenOpened": "2026-04-20T14:39:44.476Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\About.cs",
+              "RelativeDocumentMoniker": "GUI\\About.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\About.cs",
+              "RelativeToolTip": "GUI\\About.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIAwwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T14:45:05.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "InventoryManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\InventoryManagement.cs",
+              "RelativeDocumentMoniker": "GUI\\InventoryManagement.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\InventoryManagement.cs [Design]",
+              "RelativeToolTip": "GUI\\InventoryManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T04:25:40.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\Dashboard.cs",
+              "RelativeDocumentMoniker": "GUI\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\Dashboard.cs [Design]",
+              "RelativeToolTip": "GUI\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T14:15:10.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMDelete.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\IMDelete.cs",
+              "RelativeDocumentMoniker": "GUI\\IMDelete.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\IMDelete.cs [Design]",
+              "RelativeToolTip": "GUI\\IMDelete.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T13:58:54.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PasswordRecovery.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\PasswordRecovery.cs",
+              "RelativeDocumentMoniker": "GUI\\PasswordRecovery.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\PasswordRecovery.cs",
+              "RelativeToolTip": "GUI\\PasswordRecovery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T15:04:21.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PasswordRecovery.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\PasswordRecovery.cs",
+              "RelativeDocumentMoniker": "GUI\\PasswordRecovery.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\PasswordRecovery.cs [Design]",
+              "RelativeToolTip": "GUI\\PasswordRecovery.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T15:30:13.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserManagement.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\UserManagement.cs",
+              "RelativeDocumentMoniker": "GUI\\UserManagement.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\UserManagement.cs",
+              "RelativeToolTip": "GUI\\UserManagement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T16:16:35.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\UserManagement.cs",
+              "RelativeDocumentMoniker": "GUI\\UserManagement.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\UserManagement.cs [Design]",
+              "RelativeToolTip": "..\\GUI\\GUI\\UserManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T16:16:19.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "UMView.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\UMView.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\UMView.cs",
               "RelativeDocumentMoniker": "GUI\\UMView.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\UMView.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\UMView.cs",
               "RelativeToolTip": "GUI\\UMView.cs",
               "ViewState": "AgIAAHAAAAAAAAAAAAAAAFIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -276,22 +353,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "UMView.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\UMView.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\UMView.cs",
               "RelativeDocumentMoniker": "GUI\\UMView.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\UMView.cs [Design]",
-              "RelativeToolTip": "GUI\\UMView.cs [Design]",
+              "RelativeToolTip": "..\\GUI\\GUI\\UMView.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-09T16:20:51.531Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "UMUpdate.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\UMUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\UMUpdate.cs",
               "RelativeDocumentMoniker": "GUI\\UMUpdate.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\UMUpdate.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\UMUpdate.cs",
               "RelativeToolTip": "GUI\\UMUpdate.cs",
               "ViewState": "AgIAAMEAAAAAAAAAAAAAAD8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -299,22 +376,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "UMUpdate.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\UMUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\UMUpdate.cs",
               "RelativeDocumentMoniker": "GUI\\UMUpdate.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\UMUpdate.cs [Design]",
-              "RelativeToolTip": "GUI\\UMUpdate.cs [Design]",
+              "RelativeToolTip": "..\\GUI\\GUI\\UMUpdate.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-09T16:23:30.977Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "UMAdd.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\UMAdd.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\UMAdd.cs",
               "RelativeDocumentMoniker": "GUI\\UMAdd.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\UMAdd.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\UMAdd.cs",
               "RelativeToolTip": "GUI\\UMAdd.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAADwv3YAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -322,22 +399,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "UMAdd.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\UMAdd.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\UMAdd.cs",
               "RelativeDocumentMoniker": "GUI\\UMAdd.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\UMAdd.cs [Design]",
-              "RelativeToolTip": "GUI\\UMAdd.cs [Design]",
+              "RelativeToolTip": "..\\GUI\\GUI\\UMAdd.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-17T13:50:10.97Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "ReportGeneration.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\ReportGeneration.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\ReportGeneration.cs",
               "RelativeDocumentMoniker": "GUI\\ReportGeneration.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\ReportGeneration.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\ReportGeneration.cs",
               "RelativeToolTip": "GUI\\ReportGeneration.cs",
               "ViewState": "AgIAALQAAAAAAAAAAAAowC0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -345,22 +422,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "ReportGeneration.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\ReportGeneration.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\ReportGeneration.cs",
               "RelativeDocumentMoniker": "GUI\\ReportGeneration.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\ReportGeneration.cs [Design]",
-              "RelativeToolTip": "GUI\\ReportGeneration.cs [Design]",
+              "RelativeToolTip": "..\\GUI\\GUI\\ReportGeneration.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T15:07:50.49Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "Register.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\Register.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\Register.cs",
               "RelativeDocumentMoniker": "GUI\\Register.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\Register.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\Register.cs",
               "RelativeToolTip": "GUI\\Register.cs",
               "ViewState": "AgIAAHAAAAAAAAAAAAAUwBUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -368,22 +445,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Register.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\Register.cs",
-              "RelativeDocumentMoniker": "GUI\\Register.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\Register.cs [Design]",
-              "RelativeToolTip": "GUI\\Register.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T14:43:37.986Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\Program.cs",
               "RelativeDocumentMoniker": "GUI\\Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\Program.cs",
               "RelativeToolTip": "GUI\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAEwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -391,11 +457,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "PaymentManagement.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\PaymentManagement.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\PaymentManagement.cs",
               "RelativeDocumentMoniker": "GUI\\PaymentManagement.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\PaymentManagement.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\PaymentManagement.cs",
               "RelativeToolTip": "GUI\\PaymentManagement.cs",
               "ViewState": "AgIAAOkAAAAAAAAAAAAUwJ0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -403,22 +469,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "PaymentManagement.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\PaymentManagement.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\PaymentManagement.cs",
               "RelativeDocumentMoniker": "GUI\\PaymentManagement.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\PaymentManagement.cs [Design]",
-              "RelativeToolTip": "GUI\\PaymentManagement.cs [Design]",
+              "RelativeToolTip": "..\\GUI\\GUI\\PaymentManagement.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-17T11:15:28.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 24,
               "Title": "OrderManagement.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\OrderManagement.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\OrderManagement.cs",
               "RelativeDocumentMoniker": "GUI\\OrderManagement.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\OrderManagement.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\OrderManagement.cs",
               "RelativeToolTip": "GUI\\OrderManagement.cs",
               "ViewState": "AgIAAOQAAAAAAAAAAAAIwJYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -426,22 +492,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "OrderManagement.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\OrderManagement.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\OrderManagement.cs",
               "RelativeDocumentMoniker": "GUI\\OrderManagement.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\OrderManagement.cs [Design]",
-              "RelativeToolTip": "GUI\\OrderManagement.cs [Design]",
+              "RelativeToolTip": "..\\GUI\\GUI\\OrderManagement.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-17T13:21:49.663Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\Login.cs",
               "RelativeDocumentMoniker": "GUI\\Login.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\Login.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\Login.cs",
               "RelativeToolTip": "GUI\\Login.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -449,45 +515,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\Login.cs",
-              "RelativeDocumentMoniker": "GUI\\Login.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\Login.cs [Design]",
-              "RelativeToolTip": "GUI\\Login.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T13:20:43.022Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "Landing.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\Landing.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\Landing.cs",
               "RelativeDocumentMoniker": "GUI\\Landing.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\Landing.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\Landing.cs",
               "RelativeToolTip": "GUI\\Landing.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T14:49:20.401Z"
+              "WhenOpened": "2026-05-09T14:49:20.401Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Landing.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\Landing.cs",
-              "RelativeDocumentMoniker": "GUI\\Landing.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\Landing.cs [Design]",
-              "RelativeToolTip": "GUI\\Landing.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T14:49:05.082Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "InventoryManagement.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\InventoryManagement.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\InventoryManagement.cs",
               "RelativeDocumentMoniker": "GUI\\InventoryManagement.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\InventoryManagement.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\InventoryManagement.cs",
               "RelativeToolTip": "GUI\\InventoryManagement.cs",
               "ViewState": "AgIAAC8AAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -495,11 +540,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "IMUpdate.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\IMUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\IMUpdate.cs",
               "RelativeDocumentMoniker": "GUI\\IMUpdate.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\IMUpdate.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\IMUpdate.cs",
               "RelativeToolTip": "GUI\\IMUpdate.cs",
               "ViewState": "AgIAANEAAAAAAAAAAAAAAGgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -507,57 +552,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "IMUpdate.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\IMUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\IMUpdate.cs",
               "RelativeDocumentMoniker": "GUI\\IMUpdate.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\IMUpdate.cs [Design]",
-              "RelativeToolTip": "GUI\\IMUpdate.cs [Design]",
+              "RelativeToolTip": "..\\GUI\\GUI\\IMUpdate.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-17T18:07:19.989Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "IMDelete.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\IMDelete.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\IMDelete.cs",
               "RelativeDocumentMoniker": "GUI\\IMDelete.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\IMDelete.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\IMDelete.cs",
               "RelativeToolTip": "GUI\\IMDelete.cs",
               "ViewState": "AgIAAHMAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T12:03:25.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T12:03:25.786Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "InventoryManagement.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\InventoryManagement.cs",
-              "RelativeDocumentMoniker": "GUI\\InventoryManagement.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\InventoryManagement.cs [Design]",
-              "RelativeToolTip": "GUI\\InventoryManagement.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T04:25:40.632Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "IMAdd.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\IMAdd.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\IMAdd.cs",
               "RelativeDocumentMoniker": "GUI\\IMAdd.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\IMAdd.cs [Design]",
-              "RelativeToolTip": "GUI\\IMAdd.cs [Design]",
+              "RelativeToolTip": "..\\GUI\\GUI\\IMAdd.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-17T13:57:51.369Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "IMAdd.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\IMAdd.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\IMAdd.cs",
               "RelativeDocumentMoniker": "GUI\\IMAdd.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\IMAdd.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\IMAdd.cs",
               "RelativeToolTip": "GUI\\IMAdd.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAkwCsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -565,22 +598,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Dashboard.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\Dashboard.cs",
-              "RelativeDocumentMoniker": "GUI\\Dashboard.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\Dashboard.cs [Design]",
-              "RelativeToolTip": "GUI\\Dashboard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T14:15:10.978Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "packages.config",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\packages.config",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\packages.config",
               "RelativeDocumentMoniker": "GUI\\packages.config",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\packages.config",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\packages.config",
               "RelativeToolTip": "GUI\\packages.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -588,34 +610,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "About.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\About.cs",
-              "RelativeDocumentMoniker": "GUI\\About.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\About.cs [Design]",
-              "RelativeToolTip": "GUI\\About.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T14:39:44.476Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "About.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\About.cs",
-              "RelativeDocumentMoniker": "GUI\\About.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\About.cs",
-              "RelativeToolTip": "GUI\\About.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T14:45:05.555Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 35,
               "Title": "UMUpdate.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\UMUpdate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\UMUpdate.Designer.cs",
               "RelativeDocumentMoniker": "GUI\\UMUpdate.Designer.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\UMUpdate.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\UMUpdate.Designer.cs",
               "RelativeToolTip": "GUI\\UMUpdate.Designer.cs",
               "ViewState": "AgIAAFcBAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -625,9 +624,9 @@
               "$type": "Document",
               "DocumentIndex": 36,
               "Title": "Session.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\Session.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\Session.cs",
               "RelativeDocumentMoniker": "GUI\\Session.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\Session.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\Session.cs",
               "RelativeToolTip": "GUI\\Session.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -637,9 +636,9 @@
               "$type": "Document",
               "DocumentIndex": 37,
               "Title": "Register.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\Register.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\Register.Designer.cs",
               "RelativeDocumentMoniker": "GUI\\Register.Designer.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\Register.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\Register.Designer.cs",
               "RelativeToolTip": "GUI\\Register.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAOkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -649,9 +648,9 @@
               "$type": "Document",
               "DocumentIndex": 38,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\App.config",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\App.config",
               "RelativeDocumentMoniker": "GUI\\App.config",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\App.config",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\App.config",
               "RelativeToolTip": "GUI\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -662,9 +661,9 @@
               "$type": "Document",
               "DocumentIndex": 39,
               "Title": "Login.resx",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\Login.resx",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\Login.resx",
               "RelativeDocumentMoniker": "GUI\\Login.resx",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\Login.resx",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\Login.resx",
               "RelativeToolTip": "GUI\\Login.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2026-05-09T14:43:28.823Z"
@@ -673,9 +672,9 @@
               "$type": "Document",
               "DocumentIndex": 40,
               "Title": "Register.resx",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\Register.resx",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\Register.resx",
               "RelativeDocumentMoniker": "GUI\\Register.resx",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\Register.resx",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\Register.resx",
               "RelativeToolTip": "GUI\\Register.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2026-05-09T14:43:28.641Z"
@@ -684,49 +683,49 @@
               "$type": "Document",
               "DocumentIndex": 41,
               "Title": "Landing.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\Landing.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\Landing.Designer.cs",
               "RelativeDocumentMoniker": "GUI\\Landing.Designer.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\Landing.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\Landing.Designer.cs",
               "RelativeToolTip": "GUI\\Landing.Designer.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T14:43:27.707Z"
+              "WhenOpened": "2026-05-09T14:43:27.707Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 42,
               "Title": "Landing.resx",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\Landing.resx",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\Landing.resx",
               "RelativeDocumentMoniker": "GUI\\Landing.resx",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\Landing.resx",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\Landing.resx",
               "RelativeToolTip": "GUI\\Landing.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-05-09T14:43:27.605Z"
+              "WhenOpened": "2026-05-09T14:43:27.605Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 43,
               "Title": "PasswordRecovery.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\PasswordRecovery.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\PasswordRecovery.Designer.cs",
               "RelativeDocumentMoniker": "GUI\\PasswordRecovery.Designer.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\PasswordRecovery.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\PasswordRecovery.Designer.cs",
               "RelativeToolTip": "GUI\\PasswordRecovery.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T15:30:38.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-20T15:30:38.282Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 44,
               "Title": "PasswordRecovery.resx",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\PasswordRecovery.resx",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\PasswordRecovery.resx",
               "RelativeDocumentMoniker": "GUI\\PasswordRecovery.resx",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\GUI\\GUI\\PasswordRecovery.resx",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\Alvarez-EDP-Activity-7\\GUI\\PasswordRecovery.resx",
               "RelativeToolTip": "GUI\\PasswordRecovery.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2026-04-20T15:30:42.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-20T15:30:42.578Z"
             }
           ]
         }
