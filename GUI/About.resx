@@ -119,13 +119,15 @@
   </resheader>
   <data name="label2.Text" xml:space="preserve">
     <value>A simple system that manages login, dashboard navigation,
-and report generation modules.
+user accounts, payment details, inventory, and report generation for
+the Furnish Furniture Company.
 
 This program was developed using Visual Studio Code
 in the language of C#
 
 Developed by: Micaiah Devin N. Alvarez
-Course: BSIT 2-C
+Course: BSIT 3-B
+
 
 
 
